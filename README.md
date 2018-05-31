@@ -1,1 +1,1 @@
-# challendge-coin
+# Challenge coin project
